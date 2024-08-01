@@ -174,7 +174,7 @@ section .container .card {
 .card-body {
     color: #ffffff;
     /* Text color */
-    max-height: 600px;
+    max-height: 700px;
     /* Limit height for scrolling */
     overflow-y: auto;
     /* Enable vertical scrolling */
